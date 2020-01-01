@@ -1,10 +1,10 @@
 # Requisitos
 
-1. NodeJs - [Faça o download aqui]('https://nodejs.org/en/')
+1. NodeJs - [Faça o download aqui](https://nodejs.org/en/)
 2. NPM ou Yarn
-   > Node Package Manage, já vem pre-instalado junto com o nodejs, caso queira usar o yarn ( minha preferência ), você pode baixa-ló [aqui]('https://yarnpkg.com/lang/en/').
+   > Node Package Manage, já vem pre-instalado junto com o nodejs, caso queira usar o yarn ( minha preferência ), você pode baixa-ló [aqui](https://yarnpkg.com/lang/en/).
 3. IDE da sua preferência
-   > Visual Studio tem melhor integração com Visual Studio Code, isso facilitára em vários aspecto durante quando estiver programando, caso queira fazer o download do VSCode [clique aqui]('https://code.visualstudio.com/')
+   > Visual Studio tem melhor integração com Visual Studio Code, isso facilitára em vários aspecto durante quando estiver programando, caso queira fazer o download do VSCode [clique aqui](https://code.visualstudio.com/)
 
 ## Clonando Repositório
 

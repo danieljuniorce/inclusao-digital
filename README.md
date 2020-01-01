@@ -18,8 +18,8 @@
 
 ## Documentação
 
-[Clique aqui para ir para documentação.]('https://github.com/inclusaodigital/blob/docs/README.md')
+[Clique aqui para ir para documentação.](https://github.com/inclusaodigital/blob/docs/README.md)
 
 ## Author
 
-Instagram [aqui]('https://instagram.com/danieljuniorce')
+Instagram [aqui](https://instagram.com/danieljuniorce)
