@@ -9,5 +9,6 @@
 ## Sumário
 
 - ### 1. Como começar
-  - 1.1 [Ambiente de Desenvolvimento](https://github.com/danieljuniorce/inclusao-digital/blob/docs/start/REAME.md#clonando-repositório)
-  - 1.1 [Visual Studio Code - Configurando](https://github.com/danieljuniorce/inclusao-digital/blob/docs/start/REAME.md#visual-studio-code)
+  - 1.1 [Ambiente de Desenvolvimento/Requisitos](https://github.com/danieljuniorce/inclusao-digital/tree/master/docs/start#requisitos)
+  - 1.2 [Clonando Repositório](https://github.com/danieljuniorce/inclusao-digital/tree/master/docs/start#clonando-reposit%C3%B3rio)
+  - 1.3 [Visual Studio Code - Configurando](https://github.com/danieljuniorce/inclusao-digital/tree/master/docs/start#visual-studio-code)

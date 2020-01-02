@@ -18,7 +18,7 @@
 
 ## Documentação
 
-[Clique aqui para ir para documentação.](https://github.com/inclusaodigital/blob/docs/README.md)
+[Clique aqui para ir para documentação.](https://github.com/danieljuniorce/inclusao-digital/tree/master/docs)
 
 ## Author
 
